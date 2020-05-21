@@ -1,6 +1,7 @@
 #  NLP - Text Classification
 
-This repo contains the files for an implementation of a depth wise separable convolutional neural network.  
+This repo contains the files for an implementation of a depth wise separable convolutional neural network.\
+Finally implemented a simple UI in tkinter to perform classifications
 
 The structure of the project follows the guide from google about Text Classification which can be found at: <https://developers.google.com/machine-learning/practica/image-classification> 
 
