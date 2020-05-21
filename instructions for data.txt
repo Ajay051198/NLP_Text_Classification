@@ -1,0 +1,29 @@
+
+Download data into and place into a folder called /data.
+
+Rotten tomatoes reviews :
+https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
+Download and decompress archive from:
+https://www.kaggle.com/c/3810/download/train.tsv.zip
+
+Twitter v weather:
+https://www.kaggle.com/c/crowdflower-weather-twitter/data
+    Download from:
+    https://www.kaggle.com/c/3586/download/train.csv
+
+IMDB:
+Mass et al., http://www.aclweb.org/anthology/P11-1015
+Download and decompress archive from:
+http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
+and
+GLOVE data to pretrain word embeddings
+
+---------------------------------
+it should look like this:
+data\
+- aclimdb\...
+- train.csv
+- train.tsv
+- glove.6B.200d
+
